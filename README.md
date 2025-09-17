@@ -34,9 +34,7 @@
 
 ## 🌍 Conéctate conmigo
 - 📧 [jesus.alejandro@ingenieria.unam.edu](mailto:jesus.alejandro@ingenieria.unam.edu)  
-- 💼 LinkedIn (opcional, si lo tienes)  
 
+  
 ---
-
-✨ *"El aprendizaje continuo es la mejor inversión para el futuro."* ✨
 
