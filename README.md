@@ -24,14 +24,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JysusAle&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JysusAle&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
 ## 🌍 Conéctate conmigo
 - 📧 [jesus.alejandro@ingenieria.unam.edu](mailto:jesus.alejandro@ingenieria.unam.edu)  
 
